@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494732217394",
+    "project_id": "android-notif-icon",
+    "storage_bucket": "android-notif-icon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494732217394:android:c1f82522f3b3041b30c02b",
+        "android_client_info": {
+          "package_name": "com.thibault_faks.androidnotificon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1YGIJmX50XA2-IEoXopGta3AZAWCTJsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
